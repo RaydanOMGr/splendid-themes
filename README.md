@@ -1,2 +1,2 @@
 # splendid-themes
-My theme for splendid-cms 
+My themes for splendid-cms 
