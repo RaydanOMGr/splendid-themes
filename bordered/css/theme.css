@@ -1,0 +1,10 @@
+div, nav, ul.header-items li * {
+    box-sizing: content-box;
+    /* make a thin black boredr around the content */
+    border: 1px solid #000;
+    border-radius: 5px;
+}
+
+.items ul li {
+    box-shadow: 1px 1px 3px #000;
+}
